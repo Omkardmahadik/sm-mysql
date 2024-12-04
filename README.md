@@ -93,7 +93,9 @@ UPDATE Emp SET Salary = 65000 WHERE EmpName = 'Bob';
 ```
 ## Delete Data
 Delete the Employee Named Eve
+
 ```sql
 -- Delete the record of the employee named Eve
 DELETE FROM Emp WHERE EmpName = 'Eve';
 ```
+## primary key
